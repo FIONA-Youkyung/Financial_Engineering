@@ -21,11 +21,16 @@ NVIDIA 사의 Autoencoder를 활용한 Algorithmic trading tutorial
 
 ## 금융공학 시리즈 및 수학 자료
 금융공학_IV_Monte_Carlo_Methods_for_Finance_and_Economics
+
 금융공학_V_Introduction_to_Financial_Engineering_with_R
+
 금융공학_VII_Scientific_Computing_for_Finance_and_Economics
 
+
 단변량시계열분석_2017Mar06
+
 다변량시계열분석 2017Mar03
+
 Wavelet해석_2017Mar06
 
 서울대학교 경제학과 최병선 교수님의 공개 자료(Creative Commons)
