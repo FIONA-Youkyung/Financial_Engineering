@@ -54,3 +54,20 @@ https://www.youtube.com/channel/UCdnzT5Tl6pAkATOiDsPhqcg
 ### Medium article: My landscape on artificial intelligence quantitative funds and DIY funds
 
 https://medium.com/@etiennebr/my-landscape-on-artificial-intelligence-quantitative-funds-and-diy-funds-13e1b4c25706
+
+
+### 퀀트 권용진 님의 브런치 & 강의자료
+
+#### 브런치
+
+https://brunch.co.kr/@nsung#info
+
+#### 네이버 D2 '초단타매매 전략 및 트렌드'
+
+https://www.youtube.com/watch?v=_3nWYUtameM
+
+https://www.slideshare.net/NaverEngineering/ss-97817579
+
+#### ㅍㅍㅅㅅ 아카데이 인터뷰
+
+https://avengerschool.com/courses/주식_권용진
