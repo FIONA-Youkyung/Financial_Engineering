@@ -55,19 +55,33 @@ https://www.youtube.com/channel/UCdnzT5Tl6pAkATOiDsPhqcg
 
 https://medium.com/@etiennebr/my-landscape-on-artificial-intelligence-quantitative-funds-and-diy-funds-13e1b4c25706
 
+### 실제 현업에서 일하는 퀀트들
 
-### 퀀트 권용진 님의 브런치 & 강의자료
+#### 퀀트 권용진 님의 브런치 & 강의자료
 
-#### 브런치
+##### 브런치
 
 https://brunch.co.kr/@nsung#info
 
-#### 네이버 D2 '초단타매매 전략 및 트렌드'
+##### 네이버 D2 '초단타매매 전략 및 트렌드'
 
 https://www.youtube.com/watch?v=_3nWYUtameM
 
 https://www.slideshare.net/NaverEngineering/ss-97817579
 
-#### ㅍㅍㅅㅅ 아카데미 인터뷰
+##### ㅍㅍㅅㅅ 아카데미 인터뷰
 
 https://avengerschool.com/courses/주식_권용진
+
+#### 퀀트 이주원 님의 블로그
+
+https://blog.naver.com/joo_andy_lee
+
+
+#### 퀀트 김보형 님의 강의자료 사이트
+
+https://datascienceschool.net
+
+#### 퀀트 조성현 님의 블로그
+
+https://blog.naver.com/chunjein
