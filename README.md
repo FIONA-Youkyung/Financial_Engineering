@@ -68,6 +68,6 @@ https://www.youtube.com/watch?v=_3nWYUtameM
 
 https://www.slideshare.net/NaverEngineering/ss-97817579
 
-#### ㅍㅍㅅㅅ 아카데 인터뷰
+#### ㅍㅍㅅㅅ 아카데미 인터뷰
 
 https://avengerschool.com/courses/주식_권용진
