@@ -107,8 +107,14 @@ https://blog.naver.com/chunjein
 
 #### 두물머리 천영록 님의 블로그 및 유투브
 
-구 블로그: https://juliuschun.com/
+##### 구 블로그
 
-현 네이버 블로그: https://blog.naver.com/juliuschun
+https://juliuschun.com/
 
-유투브: https://www.youtube.com/channel/UChdVrewKcV9b_PMmvscTdGg
+##### 현 네이버 블로그
+
+https://blog.naver.com/juliuschun
+
+##### 유투브
+
+https://www.youtube.com/channel/UChdVrewKcV9b_PMmvscTdGg
