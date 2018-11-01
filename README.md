@@ -57,7 +57,7 @@ https://medium.com/@etiennebr/my-landscape-on-artificial-intelligence-quantitati
 
 ### 실제 현업에서 일하는 퀀트들(한국인 한정)
 
-#### 퀀트 권용진 님의 브런치 & 강의자료
+#### 퀀트 권용진 님(현 Entropy Trading Group 대표)의 브런치 & 강의자료
 
 ##### 브런치
 
@@ -75,6 +75,7 @@ https://avengerschool.com/courses/주식_권용진
 
 #### CFA 강환국 님의 인터뷰 및 글
 
+
 ##### 카카오 인터뷰
 
 https://1boon.kakao.com/ppss/591a86b46a8e5100010f0489
@@ -83,9 +84,11 @@ https://1boon.kakao.com/ppss/591a86b46a8e5100010f0489
 
 https://m.snek.ai/search?q=Alpha%3A+기고자%3AKangcfa%20systrader79
 
+
 #### 퀀트 systrader79 님의 블로그
 
 http://stock79.tistory.com
+
 
 #### 퀀트 이주원 님의 블로그
 
@@ -96,6 +99,16 @@ https://blog.naver.com/joo_andy_lee
 
 https://datascienceschool.net
 
+
 #### 퀀트 조성현 님의 블로그
 
 https://blog.naver.com/chunjein
+
+
+#### 두물머리 천영록 님의 블로그 및 유투브
+
+구 블로그: https://juliuschun.com/
+
+현 네이버 블로그: https://blog.naver.com/juliuschun
+
+유투브: https://www.youtube.com/channel/UChdVrewKcV9b_PMmvscTdGg
